@@ -1,0 +1,7 @@
+C:\Users\Stojmilova\source\repos\Homework-CLasses and Objects\Homework-Market Aplication\bin\Debug\Homework-Market Aplication.exe.config
+C:\Users\Stojmilova\source\repos\Homework-CLasses and Objects\Homework-Market Aplication\bin\Debug\Homework-Market Aplication.exe
+C:\Users\Stojmilova\source\repos\Homework-CLasses and Objects\Homework-Market Aplication\bin\Debug\Homework-Market Aplication.pdb
+C:\Users\Stojmilova\source\repos\Homework-CLasses and Objects\Homework-Market Aplication\obj\Debug\Homework-Market Aplication.csprojAssemblyReference.cache
+C:\Users\Stojmilova\source\repos\Homework-CLasses and Objects\Homework-Market Aplication\obj\Debug\Homework-Market Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\source\repos\Homework-CLasses and Objects\Homework-Market Aplication\obj\Debug\Homework-Market Aplication.exe
+C:\Users\Stojmilova\source\repos\Homework-CLasses and Objects\Homework-Market Aplication\obj\Debug\Homework-Market Aplication.pdb
